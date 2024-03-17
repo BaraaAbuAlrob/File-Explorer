@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">File Explorer</string>
+    <string name="baraa_abualrob">Baraa AbuAlrob</string>
+    <string name="home">Home</string>
+    <string name="more">More</string>
+    <string name="internal">Internal</string>
+    <string name="internal_fragment">Internal fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="card_fragment">Card Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="about">About</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
+    <string name="sd_card">SD Card</string>
+    <string name="path">Path/</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="musics">Musics</string>
+    <string name="docs">Docs</string>
+    <string name="downloads">Downloads</string>
+    <string name="apks">Apks</string>
+    <string name="recents">Recents</string>
+</resources>
